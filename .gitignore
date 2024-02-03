@@ -1,3 +1,6 @@
+#semua file dan folder yang ada di dalam gitignore akan diabaikan ketika menambahkan file ke dalam staging menggunakan git add .
+#template gitignore di github https://github.com/github/gitignore
+#template gitignore custom menggunakan gitignore.io
 config.txt
 data/
 *.exe
